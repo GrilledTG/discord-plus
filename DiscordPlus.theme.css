@@ -21,9 +21,9 @@
   --dplus-backdrop: url(https://cdn.discordapp.com/attachments/932519652926566402/1124962445253951488/2i77hlvkq1e11.jpg);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-hue: 4;
+  --dplus-accent-color-saturation: 0%;
+  --dplus-accent-color-lightness: 0%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 210;
@@ -35,7 +35,7 @@
   --dplus-background-color-hue: 4;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
-  --dplus-background-color-alpha: 0.5;
+  --dplus-background-color-alpha: 0.2;
 }
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
@@ -78,7 +78,7 @@ Set avatar/server radius to 50% to make them circular.
    --dplus-spacing-app: 10px;
 
 /* Size of user and server icons */
---dplus-icon-avatar-chat: 64px;
+--dplus-icon-avatar-chat: 32px;
 --dplus-icon-avatar-list: 32px;
 --dplus-icon-avatar-profile: 80px;
 
